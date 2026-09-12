@@ -5,3 +5,5 @@ print("Third line")
 print("Change 1")
 print("Change 2")
 print("change from github")
+def add(a: int, b: int) -> int:
+    return a + b
